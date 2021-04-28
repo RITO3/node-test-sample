@@ -1,14 +1,14 @@
 # Jestサンプル
 
 ## セットアップ
-jestのインストール
+以下のコマンドを実行する。
 
 ```
-$ npm install --save-dev jest
+$ npm install
 ```
 
-## 実行コマンド
-
+## テスト実行コマンド
+以下のコマンドを実行する。
 ```
 $ npm run test
 ```
